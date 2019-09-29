@@ -1,0 +1,33 @@
+brand:
+  name: Bharath ❤️Sonali 
+menu-string: Menu
+
+nav:
+  - title: Marriage 
+    url: '#marriage'
+  - title: Reception 
+    url: '#reception'
+  - title: Pictures
+    url: '#pictures'
+
+copyright: Copyright &copy; Bharath 2018
+
+social-buttons:
+  - icon: fa fa-twitter
+    url: '#' 
+  - icon: fa fa-facebook
+    url: '#'
+
+quicklinks:
+  - title: Privacy Policy
+    url: '#'
+  - title: Terms of Use
+    url: '#'
+
+modal:
+  date-string: 'Date: '
+  client-string: 'Client: '
+  category-string: 'Category: '
+  close-icon: 'fa fa-times'
+  close-string: 'Close Project'
+

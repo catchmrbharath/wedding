@@ -3,7 +3,7 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Marriage 
+  - title: Wedding
     url: '#marriage'
   - title: Reception 
     url: '#reception'
